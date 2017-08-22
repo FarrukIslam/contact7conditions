@@ -1,0 +1,47 @@
+
+/* contact form */
+select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.form-control {
+    border: 1px solid #5f5f60;
+    text-align: center;
+    display: block !important;
+    margin: 25px 0px;
+}
+input.wpcf7-form-control.wpcf7-text.form-control {
+    border: 1px solid #eee;
+    display: block !important;
+     text-align: left !important;
+}
+textarea.form-control {
+    text-align: left !important;
+    display: block !important;
+    margin-top: 16px !important;
+    border: 1px solid #ddd !important;
+}
+
+
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea {
+    text-align: center;
+    border: 1px solid #5f5f60 !important;
+}
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit:not([disabled]) {
+    background-color: #b0b0b0 !important;
+    font-size: 16px !important;
+    width: 91% !important;
+    text-align: center;
+}
+.form_wrapper h4.title {
+    padding: 8px 0px !important;
+    display: inline-block;
+    height: 25px !important;
+    font-size: 17px !important;
+}
+input.wpcf7-form-control.wpcf7-text.wpcf7-tel.wpcf7-validates-as-tel.form-control {
+    margin-bottom: 23px;
+}
+select.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.form-control {
+    border: 1px solid #5f5f60;
+    background: #fff url(http://www.perraworld.com/wp-content/uploads/2017/08/select-pointer-down.jpg) no-repeat 96% center;
+    color: #4d4d50;
+    font-size: 16px;
+    background-size: 30px;
+}
